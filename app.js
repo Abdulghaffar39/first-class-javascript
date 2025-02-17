@@ -41,8 +41,9 @@ console.log(true + 20)
 console.log(true + false)
 console.log(true * false)
 console.log(true / false)
-
-
-
-
 // -----------------------------------------------------------------------------------------
+
+
+// Function ()
+
+alert("Thanks For Watching")
